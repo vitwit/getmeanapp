@@ -1,2 +1,2 @@
 # getmeanapp
-Get your plug and play app ready in minutes
+Get your plug and play app in minutes
